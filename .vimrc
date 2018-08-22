@@ -129,6 +129,3 @@ set undolevels=1000
 " Persistent undo
 set undofile
 set undodir=~/.vim/undo
-
-set spelllang=en_us
-set spell
